@@ -22,6 +22,7 @@ Composition Data Set: [Download](https://pan.baidu.com/s/1_JPh5-g2rry2QmbjQ3pZ6w
 
 ### Generation
 
+
 ```sh
-.gen/sh
+./gen.sh
 ```
